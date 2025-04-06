@@ -32,7 +32,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Frontend Mentor solution url:
+- Frontend Mentor solution url: https://www.frontendmentor.io/solutions/responsive-social-link-profile-rhjT7kYTWJ/
 - GitHub repo : https://github.com/atif-dev/FEM_Social-link-profile/
 - Live Site URL: https://atif-dev.github.io/FEM_Social-link-profile//
 
