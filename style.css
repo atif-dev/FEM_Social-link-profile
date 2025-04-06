@@ -57,7 +57,7 @@ main div{
     align-items: center;
 }
 
-section{
+.social-links{
 	display: flex;
     flex-direction: column;
     text-align: center;
